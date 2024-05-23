@@ -9,14 +9,23 @@ each domain.
 
 ./data
 ├── office
+
 │   ├── amazon
+
 |       ├── ...
+
 │       ├── image_unida_list.txt
+
 │   ├── dslr
+
 |       ├── ...
+
 │       ├── image_unida_list.txt
+
 │   ├── webcam
+
 |       ├── ...
+
 │       ├── image_unida_list.txt
 
 Step 2: Train Independent models (ResNet18 with EFT modules) for each domain
