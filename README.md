@@ -1,3 +1,13 @@
+In Appendix, we provided extra details and experimental results for better understanding. The Appendix is organized as below:
+
+A. EFFICIENT FEATURE TRANSFORMATION
+
+B. ALGORITHM
+
+C. DATASET AND IMPLEMENTATION DETAILS
+
+D. ADDITIONAL EXPERIMENTAL RESULTS
+
 We provide the steps for experiments on Office-31 dataset.
 
 Step 1: Prepare dataset
