@@ -1,3 +1,5 @@
+# [Model Recycling Framework for Multi-Source Data-Free Supervised Transfer Learning](https://arxiv.org/abs/2508.02039)
+
 In Appendix, we provided extra details and experimental results for better understanding. The Appendix is organized as below:
 
 A. EFFICIENT FEATURE TRANSFORMATION
